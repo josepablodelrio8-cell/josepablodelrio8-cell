@@ -34,9 +34,10 @@ class PabloDelRio:
     """
     
     actualmente = {
-        "aprendiendo" : "Deep Learning, LLMs y MLOps",
-        "construyendo" : "Proyectos que mezclan software e IA",
+        "aprendiendo" : "Deep Learning, LLMs, MLOps y Ciberseguridad técnica",
+        "construyendo" : "Proyectos que mezclan software, hardware e IA",
         "buscando"    : "Colaborar en proyectos con propósito",
+        "inspiracion" : "Brin & Page — Stanford 1995 → Google. El entorno no te limita.",
     }
     
     pasion = "La IA no es el futuro — ya es el presente. Y quiero estar en la vanguardia."
@@ -77,20 +78,24 @@ class PabloDelRio:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**Ciberseguridad & Hardware**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 </div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-> *Próximamente — grandes cosas están en construcción...*
-
 | Proyecto | Descripción | Tecnologías | Estado |
 |---------|-------------|-------------|--------|
-| 🔧 **Proyecto 1** | *En desarrollo* | Python · IA | 🚧 WIP |
-| 🔧 **Proyecto 2** | *En desarrollo* | JavaScript · React | 🚧 WIP |
-
-*¡Pronto podrás ver soluciones reales que mezclan programación e inteligencia artificial!*
+| 👁️ **[Vision_computacional](https://github.com/josepablodelrio8-cell/Vision_computacional)** | Sistema de reconocimiento facial con YOLO + Arduino para control de asistencia en base de datos | Python · YOLO · Arduino · OpenCV | ✅ Activo |
+| 📄 **[rag-documentos-municipales](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)** | RAG system que usa la API de Claude para escanear documentos y registrarlos automáticamente en Excel | Python · Claude API · RAG · Excel | ✅ Activo |
+| 🖥️ **[sistemapersonal](https://github.com/josepablodelrio8-cell/sistemapersonal)** | Sistema CRUD colaborativo con MySQL | PHP · MySQL | ✅ Activo |
 
 ---
 
