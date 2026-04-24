@@ -120,6 +120,78 @@ class PabloDelRio:
 
 ---
 
+## ⚡ Nivel de Habilidades
+
+| Tecnología | Nivel | Barra |
+|-----------|-------|-------|
+| Python | Avanzado | `████████████░░` 80% |
+| IA / Machine Learning | Intermedio-Alto | `██████████░░░░` 70% |
+| RAG / LLMs | Intermedio | `████████░░░░░░` 60% |
+| JavaScript / React | Intermedio | `████████░░░░░░` 60% |
+| Java / Spring Boot | Intermedio | `███████░░░░░░░` 55% |
+| Android Studio / Firebase | Intermedio | `███████░░░░░░░` 50% |
+| Computer Vision / YOLO | Intermedio | `████████░░░░░░` 60% |
+| Ciberseguridad | Aprendiendo | `█████░░░░░░░░░` 35% |
+
+---
+
+## 🗺️ Roadmap — Mi visión a 2 años
+
+```
+2025 ──────────────────────────────────────────────────────── 2027
+  │
+  ├── 🔬 Profundizar en Data Science & MLOps
+  │
+  ├── 🤖 Especializarme en IA aplicada a industria
+  │
+  ├── ⛏️  Implementar soluciones tech en el sector minero del Perú
+  │        (Volcán, La Oroya y otras empresas del sector)
+  │
+  ├── 🌍 Incursionar en proyectos internacionales
+  │
+  └── ✈️  Viajar y colaborar con equipos globales
+```
+
+> *"No espero que el mundo cambie — lo construyo con código."*
+
+---
+
+## 🎮 Fun Facts
+
+- 🕹️ **A los 8 años intenté "hackear" un videojuego** para no quedarme atrás — me banearon, pero ese día entendí que el código podía hacer cosas increíbles
+- 🦕 **Mi primer proyecto real:** hice inmortal y ultra rápido al dinosaurio de Google Chrome — y así sorprendí a mis amigos
+- ♟️ **En el colegio construí un sistema de análisis de ajedrez en Python** que predecía jugadas basándose en partidas anteriores, y ayudaba a entrenar a los jugadores del colegio
+- 📋 **También creé un sistema de registro de notas** para los profesores de su colegio — antes de terminar el bachillerato
+- 🧠 Todo empezó con curiosidad, sin tutoriales, sin cursos — solo ganas de entender cómo funcionaba todo
+
+---
+
+## 🏆 Trofeos GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=josepablodelrio8-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Mis contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josepablodelrio8-cell/josepablodelrio8-cell/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josepablodelrio8-cell/josepablodelrio8-cell/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josepablodelrio8-cell/josepablodelrio8-cell/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> **⚙️ Para activar la snake:** Ve a tu repo `josepablodelrio8-cell` → Actions → New workflow → pega el workflow de [platane/snk](https://github.com/Platane/snk)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
