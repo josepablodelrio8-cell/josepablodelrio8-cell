@@ -78,6 +78,12 @@ class PabloDelRio:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**Mobile & Cloud**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 **Ciberseguridad & Hardware**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -96,6 +102,21 @@ class PabloDelRio:
 | 👁️ **[Vision_computacional](https://github.com/josepablodelrio8-cell/Vision_computacional)** | Sistema de reconocimiento facial con YOLO + Arduino para control de asistencia en base de datos | Python · YOLO · Arduino · OpenCV | ✅ Activo |
 | 📄 **[rag-documentos-municipales](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)** | RAG system que usa la API de Claude para escanear documentos y registrarlos automáticamente en Excel | Python · Claude API · RAG · Excel | ✅ Activo |
 | 🖥️ **[sistemapersonal](https://github.com/josepablodelrio8-cell/sistemapersonal)** | Sistema CRUD colaborativo con MySQL | PHP · MySQL | ✅ Activo |
+
+---
+
+## 🤝 Competencias Blandas
+
+<div align="center">
+
+![Atención al Cliente](https://img.shields.io/badge/🎧-Atención%20al%20Cliente-0ea5e9?style=for-the-badge)
+![Comunicación](https://img.shields.io/badge/💬-Comunicación%20Efectiva-0ea5e9?style=for-the-badge)
+![Trabajo en Equipo](https://img.shields.io/badge/🤝-Trabajo%20en%20Equipo-0ea5e9?style=for-the-badge)
+![Resolución de Problemas](https://img.shields.io/badge/🧩-Resolución%20de%20Problemas-0ea5e9?style=for-the-badge)
+![Adaptabilidad](https://img.shields.io/badge/⚡-Adaptabilidad-0ea5e9?style=for-the-badge)
+![Liderazgo](https://img.shields.io/badge/🚀-Liderazgo-0ea5e9?style=for-the-badge)
+
+</div>
 
 ---
 
