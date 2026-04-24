@@ -100,7 +100,7 @@ class PabloDelRio:
 | Proyecto | Descripción | Tecnologías | Estado |
 |---------|-------------|-------------|--------|
 | 👁️ **[Vision_computacional](https://github.com/josepablodelrio8-cell/Vision_computacional)** | Sistema de reconocimiento facial con YOLO + Arduino para control de asistencia en base de datos | Python · YOLO · Arduino · OpenCV | ✅ Activo |
-| 📄 **[rag-documentos-municipales](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)** | RAG system que usa la API de Claude para escanear documentos y registrarlos automáticamente en Excel | Python · Claude API · RAG · Excel | ✅ Activo |
+| 📄 **[rag-documentos-municipales](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)** | Asistente RAG para instituciones públicas: permite consultar ordenanzas, resoluciones y normativas SIAF/MEF en lenguaje natural y obtener respuestas fundamentadas con la fuente citada. Elimina horas de búsqueda manual de documentos. | Python · Claude API · RAG | ✅ Activo |
 | 🖥️ **[sistemapersonal](https://github.com/josepablodelrio8-cell/sistemapersonal)** | Sistema CRUD colaborativo con MySQL | PHP · MySQL | ✅ Activo |
 
 ---
