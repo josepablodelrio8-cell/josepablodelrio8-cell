@@ -12,7 +12,8 @@
 
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-josepablodelrio8--cell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josepablodelrio8-cell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-AQUI)
+[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Lima%2C%20Perú-FF6B35?style=for-the-badge)](#)
 
 </div>
@@ -55,6 +56,8 @@ class PabloDelRio:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **IA & Data**
 
@@ -71,18 +74,18 @@ class PabloDelRio:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Herramientas**
+**Herramientas & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Mobile & Cloud**
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Ciberseguridad & Hardware**
 
@@ -97,11 +100,62 @@ class PabloDelRio:
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías | Estado |
-|---------|-------------|-------------|--------|
-| 👁️ **[Vision_computacional](https://github.com/josepablodelrio8-cell/Vision_computacional)** | Sistema de reconocimiento facial con YOLO + Arduino para control de asistencia en base de datos | Python · YOLO · Arduino · OpenCV | ✅ Activo |
-| 📄 **[rag-documentos-municipales](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)** | Asistente RAG para instituciones públicas: permite consultar ordenanzas, resoluciones y normativas SIAF/MEF en lenguaje natural y obtener respuestas fundamentadas con la fuente citada. Elimina horas de búsqueda manual de documentos. | Python · Claude API · RAG | ✅ Activo |
-| 🖥️ **[sistemapersonal](https://github.com/josepablodelrio8-cell/sistemapersonal)** | Sistema CRUD colaborativo con MySQL | PHP · MySQL | ✅ Activo |
+### 👁️ Vision Computacional — Control de Asistencia con IA
+
+> Sistema de reconocimiento facial con YOLO + Arduino para registrar asistencia automáticamente en base de datos.
+
+<!-- 
+  💡 CÓMO AGREGAR TU GIF AQUÍ:
+  1. Graba tu pantalla mientras ejecutas el sistema (OBS Studio o grabador del PC)
+  2. Convierte a GIF en ezgif.com (máximo 8 segundos)
+  3. Abre este README en GitHub → botón ✏️ Edit
+  4. Arrastra y suelta el GIF en el editor
+  5. GitHub genera una URL automáticamente → reemplaza la línea de abajo
+-->
+
+![Demo Vision Computacional](https://via.placeholder.com/800x400/0d1117/0ea5e9?text=🎥+Arrastra+tu+GIF+aquí)
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/Vision_computacional)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+### 📄 RAG para Documentos Municipales
+
+> Asistente inteligente que permite consultar ordenanzas, resoluciones y normativas SIAF/MEF en lenguaje natural. Elimina horas de búsqueda manual.
+
+<!-- 
+  💡 CÓMO AGREGAR TU GIF AQUÍ:
+  1. Graba una consulta al asistente en tu terminal o interfaz
+  2. Convierte a GIF en ezgif.com
+  3. Sigue los mismos pasos de arriba para subir a GitHub
+-->
+
+![Demo RAG Municipal](https://via.placeholder.com/800x400/0d1117/0ea5e9?text=🎥+Arrastra+tu+GIF+aquí)
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat)
+
+---
+
+### 🖥️ Sistema Personal CRUD
+
+> Sistema de gestión colaborativa con PHP y MySQL.
+
+<!-- 
+  💡 GIF: Graba el navegador mientras usas el sistema → sube igual que los anteriores
+-->
+
+![Demo Sistema CRUD](https://via.placeholder.com/800x400/0d1117/0ea5e9?text=🎥+Arrastra+tu+GIF+aquí)
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/sistemapersonal)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -122,16 +176,16 @@ class PabloDelRio:
 
 ## ⚡ Nivel de Habilidades
 
-| Tecnología | Nivel | Barra |
-|-----------|-------|-------|
-| Python | Avanzado | `████████████░░` 80% |
-| IA / Machine Learning | Intermedio-Alto | `██████████░░░░` 70% |
-| RAG / LLMs | Intermedio | `████████░░░░░░` 60% |
-| JavaScript / React | Intermedio | `████████░░░░░░` 60% |
-| Java / Spring Boot | Intermedio | `███████░░░░░░░` 55% |
-| Android Studio / Firebase | Intermedio | `███████░░░░░░░` 50% |
-| Computer Vision / YOLO | Intermedio | `████████░░░░░░` 60% |
-| Ciberseguridad | Aprendiendo | `█████░░░░░░░░░` 35% |
+| Tecnología | Nivel |
+|-----------|-------|
+| Python | ⭐ Experto |
+| IA / Machine Learning | 🔥 Sólido |
+| RAG / LLMs | 🔥 Sólido |
+| JavaScript / React | 🔥 Sólido |
+| Java / Spring Boot | 🔥 Sólido |
+| Android Studio / Firebase | 🔥 Sólido |
+| Computer Vision / YOLO | 🔥 Sólido |
+| Ciberseguridad | 📚 Explorando |
 
 ---
 
@@ -188,8 +242,6 @@ class PabloDelRio:
 
 </div>
 
-> **⚙️ Para activar la snake:** Ve a tu repo `josepablodelrio8-cell` → Actions → New workflow → pega el workflow de [platane/snk](https://github.com/Platane/snk)
-
 ---
 
 ## 📊 GitHub Stats
@@ -231,6 +283,8 @@ Mi motivación es clara: **programar no es solo escribir código**, es encontrar
 ¿Tienes un proyecto interesante? ¿Quieres colaborar? ¿O simplemente hablar de IA?
 
 [![GitHub](https://img.shields.io/badge/GitHub-@josepablodelrio8--cell-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-AQUI)
+[![Email](https://img.shields.io/badge/Gmail-TU--CORREO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
 
 </div>
 
