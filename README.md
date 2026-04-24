@@ -13,7 +13,7 @@
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-josepablodelrio8--cell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josepablodelrio8-cell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-AQUI)
-[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-josepablodelrio8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepablodelrio8@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Lima%2C%20Perú-FF6B35?style=for-the-badge)](#)
 
 </div>
