@@ -284,7 +284,9 @@ Mi motivación es clara: **programar no es solo escribir código**, es encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-@josepablodelrio8--cell-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-AQUI)
-[![Email](https://img.shields.io/badge/josepablodelrio@gmail.comstyle=for-the-badge&logo=gmail&logoColor=white)](mailto:josepablodelrio@gmail)
+[![Gmail](https://img.shields.io/badge/Gmail-josepablodelrio8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepablodelrio8@gmail.com)
+
+</div>
 
 </div>
 
