@@ -113,7 +113,7 @@ class PabloDelRio:
   5. GitHub genera una URL automáticamente → reemplaza la línea de abajo
 -->
 
-![Demo Vision Computacional](<img width="800" height="450" alt="recording-2026-04-24-14-04-59-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bcb079fb-dfb6-40f8-9482-5b0eef6131f8" />)
+<img width="800" height="450" alt="recording-2026-04-24-14-04-59-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bcb079fb-dfb6-40f8-9482-5b0eef6131f8" />
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/Vision_computacional)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
