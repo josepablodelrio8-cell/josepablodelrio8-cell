@@ -151,7 +151,7 @@ class PabloDelRio:
   💡 GIF: Graba el navegador mientras usas el sistema → sube igual que los anteriores
 -->
 
-![Demo Sistema CRUD](https://via.placeholder.com/800x400/0d1117/0ea5e9?text=🎥+Arrastra+tu+GIF+aquí)
+(<img width="800" height="450" alt="recording-2026-04-24-14-39-32-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/91bc5e9a-54ec-4d56-a86d-54b2c96f2458" />)
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/sistemapersonal)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
