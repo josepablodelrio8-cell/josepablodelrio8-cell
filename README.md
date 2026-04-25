@@ -104,15 +104,6 @@ class PabloDelRio:
 
 > Sistema de reconocimiento facial con YOLO + Arduino para registrar asistencia automáticamente en base de datos.
 
-<!-- 
-  💡 CÓMO AGREGAR TU GIF AQUÍ:
-  1. Graba tu pantalla mientras ejecutas el sistema (OBS Studio o grabador del PC)
-  2. Convierte a GIF en ezgif.com (máximo 8 segundos)
-  3. Abre este README en GitHub → botón ✏️ Edit
-  4. Arrastra y suelta el GIF en el editor
-  5. GitHub genera una URL automáticamente → reemplaza la línea de abajo
--->
-
 <img width="800" height="450" alt="recording-2026-04-24-14-04-59-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bcb079fb-dfb6-40f8-9482-5b0eef6131f8" />
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/Vision_computacional)
@@ -127,13 +118,6 @@ class PabloDelRio:
 
 > Asistente inteligente que permite consultar ordenanzas, resoluciones y normativas SIAF/MEF en lenguaje natural. Elimina horas de búsqueda manual.
 
-<!-- 
-  💡 CÓMO AGREGAR TU GIF AQUÍ:
-  1. Graba una consulta al asistente en tu terminal o interfaz
-  2. Convierte a GIF en ezgif.com
-  3. Sigue los mismos pasos de arriba para subir a GitHub
--->
-
 ![Demo RAG Municipal](https://via.placeholder.com/800x400/0d1117/0ea5e9?text=🎥+Arrastra+tu+GIF+aquí)
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)
@@ -143,15 +127,23 @@ class PabloDelRio:
 
 ---
 
+### 🌐 EduNet Academy — Plataforma Educativa Web
+
+> Landing page completa para plataforma de cursos tecnológicos dirigida a Latinoamérica. Incluye página principal, login y registro de usuarios con diseño oscuro premium.
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/proyecto-web)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
 ### 🖥️ Sistema Personal CRUD
 
 > Sistema de gestión colaborativa con PHP y MySQL.
 
-<!-- 
-  💡 GIF: Graba el navegador mientras usas el sistema → sube igual que los anteriores
--->
-
-(<img width="800" height="450" alt="recording-2026-04-24-14-39-32-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/91bc5e9a-54ec-4d56-a86d-54b2c96f2458" />)
+<img width="800" height="450" alt="recording-2026-04-24-14-39-32-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/91bc5e9a-54ec-4d56-a86d-54b2c96f2458" />
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/sistemapersonal)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -229,6 +221,7 @@ class PabloDelRio:
 </div>
 
 ---
+
 ## 📅 Actividad de Contribuciones
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josepablodelrio8-cell&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -239,7 +232,6 @@ class PabloDelRio:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josepablodelrio8-cell/josepablodelrio8-cell/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josepablodelrio8-cell/josepablodelrio8-cell/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
 ---
@@ -283,7 +275,7 @@ Mi motivación es clara: **programar no es solo escribir código**, es encontrar
 ¿Tienes un proyecto interesante? ¿Quieres colaborar? ¿O simplemente hablar de IA?
 
 [![GitHub](https://img.shields.io/badge/GitHub-@josepablodelrio8--cell-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Del%20Río-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pablo-del-rio-95b0aa406)
 [![Gmail](https://img.shields.io/badge/Gmail-josepablodelrio8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepablodelrio8@gmail.com)
 
 </div>
