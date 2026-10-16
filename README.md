@@ -213,10 +213,7 @@ class PabloDelRio:
 - 📋 **También creé un sistema de registro de notas** para los profesores de su colegio — antes de terminar el bachillerato
 - 🧠 Todo empezó con curiosidad, sin tutoriales, sin cursos — solo ganas de entender cómo funcionaba todo
 
----
-
----
-
+--
 ## 📅 Actividad de Contribuciones
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josepablodelrio8-cell&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
