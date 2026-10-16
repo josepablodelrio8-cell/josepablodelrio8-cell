@@ -216,8 +216,6 @@ class PabloDelRio:
 --
 ## 📅 Actividad de Contribuciones
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josepablodelrio8-cell&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josepablodelrio8-cell/josepablodelrio8-cell/output/github-contribution-grid-snake-dark.svg">
