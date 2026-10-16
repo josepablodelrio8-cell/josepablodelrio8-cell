@@ -25,7 +25,7 @@
 ```python
 class PabloDelRio:
     nombre     = "Pablo José Del Río Mayta"
-    ubicacion  = "Lima, Perú 🇵🇪"
+    ubicación  = "La Oroya, Perú 🇵🇪"
     rol        = ["Developer", "AI Enthusiast", "Problem Solver"]
     
     mision     = """
@@ -125,18 +125,7 @@ class PabloDelRio:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
-
-### 📄 RAG para Documentos Municipales
-
-> Asistente inteligente que permite consultar ordenanzas, resoluciones y normativas SIAF/MEF en lenguaje natural. Elimina horas de búsqueda manual.
-
-![Demo RAG Municipal](https://via.placeholder.com/800x400/0d1117/0ea5e9?text=🎥+Demo+RAG+Municipal)
-
-[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/josepablodelrio8-cell/rag-documentos-municipales)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat)
-
+######
 ---
 
 ### 🌐 EduNet Academy — Plataforma Educativa Web
